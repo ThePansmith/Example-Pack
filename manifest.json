@@ -1,0 +1,29 @@
+{
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.5.2860",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Example pack",
+  "version": "1.86",
+  "author": "Pansmith",
+  "files": [
+    {
+      "projectID": 840735,
+      "fileID": 4451588,
+      "required": true
+    },
+    {
+      "projectID": 557549,
+      "fileID": 4451828,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}

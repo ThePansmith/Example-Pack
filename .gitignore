@@ -120,3 +120,4 @@ build/
 # NF Build Tools
 .cache
 build
+.thej

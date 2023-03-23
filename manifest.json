@@ -1,4 +1,4 @@
-{{
+{
   "minecraft": {
     "version": "1.12.2",
     "modLoaders": [
@@ -31,12 +31,12 @@
     },
     {
       "projectID": 570458,
-      "fileID": 4429430,
+      "fileID": 4448152,
       "required": true
     },
     {
-      "projectID": 226410,
-      "fileID": 2702991,
+      "projectID": 321792,
+      "fileID": 4391401,
       "required": true
     }
   ],
